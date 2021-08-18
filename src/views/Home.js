@@ -7,6 +7,6 @@ const Home = () => {
       <ItemList />
     </div>
   )
-}
+};
 
 export default Home;
